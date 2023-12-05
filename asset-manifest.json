@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GOATSs7/crud-using-json-server.git/static/css/main.f855e6bc.css",
+    "main.js": "/GOATSs7/crud-using-json-server.git/static/js/main.00dd9818.js",
+    "static/js/787.621577be.chunk.js": "/GOATSs7/crud-using-json-server.git/static/js/787.621577be.chunk.js",
+    "index.html": "/GOATSs7/crud-using-json-server.git/index.html",
+    "main.f855e6bc.css.map": "/GOATSs7/crud-using-json-server.git/static/css/main.f855e6bc.css.map",
+    "main.00dd9818.js.map": "/GOATSs7/crud-using-json-server.git/static/js/main.00dd9818.js.map",
+    "787.621577be.chunk.js.map": "/GOATSs7/crud-using-json-server.git/static/js/787.621577be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.00dd9818.js"
+  ]
+}
