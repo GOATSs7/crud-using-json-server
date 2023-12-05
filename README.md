@@ -1,4 +1,6 @@
-click here :
+click here :https://goatss7.github.io/crud-using-json-server/
+
+
 
 CRUD operations are done in this project
 Json server is used
