@@ -1,3 +1,10 @@
+click here :
+
+CRUD operations are done in this project
+Json server is used
+axios,react-router-dom
+react hooks are used
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
