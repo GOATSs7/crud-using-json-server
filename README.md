@@ -1,4 +1,4 @@
-click here :https://goatss7.github.io/crud-using-json-server/
+click here :https://crud-using-jsonserver.netlify.app
 
 
 
